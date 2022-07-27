@@ -1,0 +1,2 @@
+# odooappps
+Odoo Bench Apps
